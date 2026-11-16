@@ -1,0 +1,7 @@
+.git
+.dvc
+data
+mlflow.db
+mlruns
+model
+__pycache__
